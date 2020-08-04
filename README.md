@@ -13,8 +13,7 @@ For using this program it is necessary to install these softwares on your local 
 * Number of supports is not limited in this program. You can add as many supports as you need. It can also solve statically indeterminate beams.
 * 3 types of loading are accepted in this program. Point load, distributed load, and point moment of inertia. 
 
-## How to use?
-For 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
