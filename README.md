@@ -1,11 +1,11 @@
 
 # Beam Deflection Calculator
 
-This is an application for calculating deflection, shear force, and bending moment of beams with various types of loadings and different number of supports.
+This is an application for calculating deflection, shear forces, and bending moments of beams with various types of loadings and different number of supports.
 
 ## Prerequisites
 For using this program it is necessary to install these softwares on your local machine.
-* MATLAB Software
+* MATLAB software
 * AppDesigner toolbox
 
 ## Features
